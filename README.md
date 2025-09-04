@@ -42,4 +42,3 @@ O front-end foi atualizado com duas melhorias principais:
    - O `app.js` manipula classes CSS para aplicar o estilo escolhido.  
 
 ---
-eu-repositorio
